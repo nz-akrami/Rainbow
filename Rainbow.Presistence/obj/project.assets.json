@@ -497,11 +497,25 @@
       "Rainbow.Application/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "7.0.15",
+          "Rainbow.Domain": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Rainbow.Application.dll": {}
         },
         "runtime": {
           "bin/placeholder/Rainbow.Application.dll": {}
+        }
+      },
+      "Rainbow.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Rainbow.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Rainbow.Domain.dll": {}
         }
       }
     }
@@ -1146,6 +1160,11 @@
       "type": "project",
       "path": "../Rainbow.Application/Rainbow.Application.csproj",
       "msbuildProject": "../Rainbow.Application/Rainbow.Application.csproj"
+    },
+    "Rainbow.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Rainbow.Domain/Rainbow.Domain.csproj",
+      "msbuildProject": "../Rainbow.Domain/Rainbow.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
