@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Rainbow.Application.DTO
 {
-    internal class carDTO
+    public class carDTO
     {
         public int CarId { get; set; }
         public string CarName { get;  set; }
