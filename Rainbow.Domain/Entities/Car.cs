@@ -14,5 +14,19 @@ namespace Rainbow.Domain.Entities
         public string CarPrice { get;private set; }
         public string CarDescription { get;private set; }
         public string CarColor { get;private set; }
+
+        public Car()
+        {
+            
+        }
+        public Car(string CarName, string CarType, string CarPrice, string CarDescription, string CarColor)
+        {
+            this.CarName = CarName;
+            this.CarType = CarType;
+            this.CarPrice = CarPrice;
+            this.CarDescription = CarDescription;   
+            this.CarColor = CarColor;
+
+        }
     }
 }
