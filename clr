@@ -1,0 +1,41 @@
+[33mcommit f3f2c78e977bf54e9344892f892a5aadf767d337[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: TeamA-MEMBER001 <nz.akrami1385@bmw.com>
+Date:   Fri Mar 1 12:16:33 2024 +0330
+
+    create canstractor
+
+[33mcommit 6f6d54cf5425e14aca61de471cc0d2a4b680b5b7[m
+Author: TeamA-MEMBER001 <nz.akrami1385@bmw.com>
+Date:   Mon Feb 26 21:58:34 2024 +0330
+
+    create entities
+
+[33mcommit c6872a75ccbc9ca1c9cc816734798a0df07e9bee[m
+Author: nazanin <nz.akrami1385@gmail.com>
+Date:   Sun Feb 25 18:43:36 2024 +0330
+
+    create class library
+
+[33mcommit 50b47f3ede4fa1203804938316e18c89690e0d42[m
+Author: nazanin <nz.akrami1385@gmail.com>
+Date:   Sat Feb 24 23:27:58 2024 +0330
+
+    creat class library
+
+[33mcommit a82e53dd1e52af1524144a184c9525ca6473b3f3[m
+Author: nazanin <nz.akrami1385@gmail.com>
+Date:   Sat Feb 24 23:19:58 2024 +0330
+
+    login form created
+
+[33mcommit 91c849b4cc1d461760838614498890fd5300adf0[m
+Author: nazanin <nz.akrami1385@gmail.com>
+Date:   Sat Feb 24 22:48:48 2024 +0330
+
+    login form created
+
+[33mcommit 11e7ae87d923632b54d6cf42ea0962d8ddd21ac6[m
+Author: nazanin <nz.akrami1385@gmail.com>
+Date:   Sat Feb 24 22:04:42 2024 +0330
+
+    empty template init
